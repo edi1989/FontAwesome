@@ -1,0 +1,17 @@
+.box {
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    border: rgba(116, 114, 114, 0.753) 4px solid;
+    border-radius: 10px;
+
+}
+
+.text{
+    color: black;
+    text-align: center;
+}
+
+#content {
+    padding: 10px;
+}
